@@ -1,2 +1,2 @@
 # biomarinalab
-Gestión laboratorios Grado Ciencias del Mar
+Gestión Laboratorios Grado Ciencias del Mar
